@@ -1,12 +1,12 @@
 body {
   font-size: 16px;
   background: black;
-  color: green;
+  color: limegreen;
 }
 
 input, button, .button-text {
   background: black;
-  color: green;
+  color: limegreen;
   margin: 0px;
   font-family: monospace;
 }
