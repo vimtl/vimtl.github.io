@@ -13,14 +13,19 @@ input, button, .button-text {
   background: black;
   color: limegreen;
   margin: 0px;
-  padding: 1px;
   font-family: monospace;
-}
-
-a:link, a:hover, a:visited, a:active {
-  color: green;
 }
 
 input, button {
   border: 1px green dashed;
+  padding: 1px;
+}
+
+.button-text {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+a:link, a:hover, a:visited, a:active {
+  color: green;
 }
