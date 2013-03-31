@@ -4,6 +4,11 @@ body {
   color: limegreen;
 }
 
+pre {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 input, button, .button-text {
   background: black;
   color: limegreen;
